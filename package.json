@@ -2,7 +2,7 @@
   "name": "casey",
   "scripts": {
     "s": "yarn start",
-    "sb": "yarn start",
+    "sb": "yarn start:bin",
     "start": "tsc && node ./dist/casey.js",
     "start:bin": "yarn build && ./bin/casey-macos",
     "build": "tsc && pkg --out-path ./bin ./dist/casey.js"
