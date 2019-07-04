@@ -30,7 +30,6 @@ class Casey {
                 alias: 'i',
                 describe: 'provide string to transform',
                 type: 'string',
-                demand: true
             }).argv;
         this.funcToRun = this.getFuncToRun();
         this.input = this.argv.input;
