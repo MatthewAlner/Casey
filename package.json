@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "clipboardy": "^1.2.3",
-    "log4js": "^3.0.6",
+    "log4js": "^6.4.0",
     "pkg": "^4.3.7",
     "voca": "^1.4.0",
     "yargs": "^13.1.0"
